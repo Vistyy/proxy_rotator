@@ -10,7 +10,7 @@ packages = [{ include = "proxy_rotator", from = "src" }]
 python = "^3.12"
 pydantic = "^2.9.2"
 pydantic-settings = "^2.8.1"
-structlog = "^25.1.0"
+structlog = "^25.5.0"
 sentry-sdk = "^2.22.0"
 
 [tool.poetry.group.dev.dependencies]
